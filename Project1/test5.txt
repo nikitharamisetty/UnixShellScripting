@@ -1,0 +1,3 @@
+ numeric example test txt/
+this mayb crct ot wrng/
+1=1+1

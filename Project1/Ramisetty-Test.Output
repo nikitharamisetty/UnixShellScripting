@@ -1,0 +1,93 @@
+First test case against the spell
+Ths
+frst
+softwae
+testin
+tst
+scnd
+lne
+fle
+Second test case aginst file name and line numbers
+test1.txt:1: Ths
+test1.txt:1: frst
+test1.txt:1: softwae
+test1.txt:1: testin
+test1.txt:1: tst
+test1.txt:2: scnd
+test1.txt:2: lne
+test1.txt:2: fle
+Third test case against file name
+test1.txt: Ths
+test1.txt: frst
+test1.txt: softwae
+test1.txt: testin
+test1.txt: tst
+test1.txt: scnd
+test1.txt: lne
+test1.txt: fle
+Fourth test case against line numbers
+1: Ths
+1: frst
+1: softwae
+1: testin
+1: tst
+2: scnd
+2: lne
+2: fle
+Fifth test case with a file that doesn't exist
+Sixth test case to find the ispell's version
+./spell: Ispell version 3.3.02
+Seventh test case to find version number
+Eight test case if the filet is empty
+Ninth test case to see if the filename is Case Sensitive
+Tenth test case to see if the program prints the same misspelled word if it occurs multiple times in a given file
+ths
+ths
+ths
+ths
+crt
+Eleven test case to see if -h will print the menu
+Usage: ./spell [OPTION]... [FILE]...
+Twelveth test case to see if the program can execute multiple inputs
+Ths
+frst
+softwae
+testin
+tst
+scnd
+lne
+fle
+Nw
+wht
+cannt
+oky
+ths
+ths
+ths
+ths
+crt
+Thirteen test case to see if the program prints numbers 
+Fourteen test case to see if the program prints words that are in literal form 
+ths
+ths
+ths
+ths
+crt
+Fifteen test case to see if the program prints words that based on a british dictionary 
+ Sixteen test case to check if the --dictionary=FILE works or not
+crt
+britsh
+dic
+ Seventh test case to check if the programcan execute multiple functions and multiple inputs at a time
+test3.txt:1: Nw
+test3.txt:1: wht
+test3.txt:2: cannt
+test3.txt:2: oky
+test4.txt:1: ths
+test4.txt:1: ths
+test4.txt:1: ths
+test4.txt:2: ths
+test4.txt:2: crt
+ Eigtheen test case to check if thw program can check --ispell=PROGRAM or not
+Nineteen test case to check if there will be a problem If the first line of the input file is empty
+tomoorw
